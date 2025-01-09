@@ -23,9 +23,9 @@ Before you begin, ensure you have the following installed on your local machine:
 
 1. **Clone the Repository**:
    
-    git clone https://github.com/SpringBoardMentor115/Kanban_Flow_Infosys_Internship_Oct2024.git
+    git clone https://github.com/premsla/my_kanban.git
 
-    cd kanban-flow/MyKanban
+    cd MyKanban
     
 
 2. **Configure Database**:
